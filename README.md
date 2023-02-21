@@ -9,6 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: MY BEAUTY (is) FULL 
-* Student ID: ID123
+* Student Name: Nguyen Tuan Khiem
+* Student ID: BI12-210
+* Group: G5ICT
 
